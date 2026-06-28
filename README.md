@@ -1,6 +1,6 @@
 <!-- Dynamic Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00f7ff,100:0e75b6&height=200&section=header&text=ATRI%20MANDAL&subText=BUILDING%20REAL-WORLD%20SOFTWARE&fontSize=42&fontColor=ffffff&fontAlignY=40&subTextActive=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0e75b6&height=220&section=header&text=Atri%20Mandal&subText=Full%20Stack%20Web%20%26%20Software%20Developer&subTextActive=true&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 </p>
 
 <!-- Typing Intro & Profile Views -->
@@ -144,14 +144,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
 </p>
 
-<!-- GitHub Achievements Section -->
-<h2>🏆 Achievements</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atriman123&theme=tokyonight&no-frame=true&row=1&column=6" alt="Profile Trophies" />
-</p>
-
----
-
 <!-- Fun Fact JavaScript Block -->
 <h2>⚡ Fun Fact</h2>
 
@@ -166,3 +158,20 @@ const atri = {
     },
     motto: "Build software that solves real-world problems 🚀"
 };
+```
+
+---
+
+<!-- Connect with me Section -->
+<h2>🌐 Connect With Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/atri-mandal-17094b3a3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:dokaniaenterprises@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
