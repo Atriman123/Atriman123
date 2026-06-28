@@ -1,6 +1,6 @@
 <!-- Dynamic Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Atri%20Mandal&subText=Full%20Stack%20Web%20Developer%20%7C%20PHP%20%26%20Software%20Developer&subTextActive=true&fontSize=38&theme=dark" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00f7ff,100:0e75b6&height=200&section=header&text=ATRI%20MANDAL&subText=BUILDING%20REAL-WORLD%20SOFTWARE&fontSize=42&fontColor=ffffff&fontAlignY=40&subTextActive=true" width="100%"/>
 </p>
 
 <!-- Typing Intro & Profile Views -->
@@ -12,7 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=Atriman123&label=Profile%20Views&color=00f7ff&style=flat-square" alt="Profile Views" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
+</p>
 
 <!-- Grid Layout: About Me (Left) & Core Tech Stack (Right) -->
 <table border="0" width="100%">
@@ -29,14 +31,48 @@
       </ul>
       <p><em>"Code is not just syntax; it's a tool to simplify and automate real-world struggles."</em> 🚀</p>
     </td>
-    <td width="40%" valign="top" align="center">
-      <h2>⚡ Core Stack</h2>
-      <img src="https://skillicons.dev/icons?i=php,js,react,mysql,java,firebase,html,css,bootstrap,vscode,github&perline=4&theme=dark" alt="My Skills" />
+    <td width="40%" valign="top">
+      <h2>⚡ Tech Stack</h2>
+      <table width="100%">
+        <tr>
+          <td><strong>Frontend</strong></td>
+          <td>
+            <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+            <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Backend</strong></td>
+          <td>
+            <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+            <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Database</strong></td>
+          <td>
+            <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Tools</strong></td>
+          <td>
+            <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+            <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
+</p>
 
 <!-- Featured Projects Section -->
 <h2>💼 Featured Projects</h2>
@@ -80,28 +116,33 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
+</p>
 
 <!-- GitHub Analytics Section (Horizontal Alignment) -->
-<h2>📊 GitHub Analytics</h2>
+<h2>📊 GitHub Analytics & Contributions</h2>
 
-<table align="center" border="0">
+<table align="center" border="0" width="100%">
   <tr>
-    <td align="center" valign="middle">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atriman123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+    <td align="center" valign="middle" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Atriman123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="100%" />
     </td>
-    <td align="center" valign="middle">
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Atriman123&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    <td align="center" valign="middle" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atriman123&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atriman123&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+      <br/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atriman123&bg_color=0f172a&color=00f7ff&line=00f7ff&point=0891b2&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
     </td>
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
+</p>
 
 <!-- GitHub Achievements Section -->
 <h2>🏆 Achievements</h2>
